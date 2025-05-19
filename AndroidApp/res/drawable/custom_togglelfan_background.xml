@@ -1,0 +1,6 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background when toggle button is checked -->
+    <item android:drawable="@drawable/custom_backgroundlfan_checked" android:state_checked="true" />
+    <!-- Background when toggle button is unchecked -->
+    <item android:drawable="@drawable/custom_backgroundfan_unchecked" />
+</selector>

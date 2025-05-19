@@ -1,0 +1,16 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background shape -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="20dp" /> <!-- Adjust the radius as needed -->
+            <solid android:color="@color/white" /> <!-- Set your desired button color -->
+            <size android:width="130dp" android:height="130dp" /> <!-- Adjust the size as needed -->
+        </shape>
+    </item>
+    <!-- Image -->
+    <item android:drawable="@drawable/bluetooth_button"
+        android:gravity="center"
+        android:bottom="20dp"
+        android:width="60dp"
+        android:height="90dp" /> <!-- Adjust the size as needed -->
+</layer-list>

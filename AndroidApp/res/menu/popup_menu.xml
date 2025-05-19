@@ -1,0 +1,8 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/logout"
+        android:title="Log Out"
+        tools:ignore="HardcodedText" />
+    <!-- Add more items here if needed -->
+</menu>

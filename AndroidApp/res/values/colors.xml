@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+        <!-- ... other color definitions ... -->
+    <color name="my_status_bar_color">#000000</color><!-- Replace with your desired color -->
+    <color name="my_light_primary">#000000</color>
+    <color name="my_status_bar_color1">#B56D02</color>
+    <color name="overlayTextColor">#A8A7A7</color>
+    <color name="colorError">#FF0000</color>
+    <color name="dark_splash_background">#FFFFFF</color>
+    <color name="green">#00FF00</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="red">#FF0000</color>
+</resources>

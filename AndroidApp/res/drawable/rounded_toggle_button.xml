@@ -1,0 +1,12 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background shape -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="20dp" /> <!-- Adjust the radius as needed -->
+            <solid android:color="@color/my_status_bar_color1" /> <!-- Set your desired button color -->
+        </shape>
+    </item>
+    <!-- Image -->
+    <item android:drawable="@drawable/lightbulb"
+    android:gravity="center" />
+</layer-list>

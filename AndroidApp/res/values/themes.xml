@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SmartHome" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+<!--        <item name="colorPrimaryDark">@color/my_status_bar_color1</item>-->
+
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+
+    <style name="Theme.SmartHome" parent="Base.Theme.SmartHome" />
+</resources>

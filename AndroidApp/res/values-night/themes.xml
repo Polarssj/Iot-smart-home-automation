@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SmartHome" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+<!--        <item name="android:windowBackground">@color/dark_splash_background</item>-->
+    </style>
+    <style name="MyButtonStyle" parent="Widget.Material3.Button">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+</resources>

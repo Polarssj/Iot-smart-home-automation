@@ -1,0 +1,19 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background shape -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="20dp" /> <!-- Adjust the radius as needed -->
+            <solid android:color="@color/white" /> <!-- Set your desired button color -->
+            <size android:width="100dp" android:height="100dp" /> <!-- Adjust the size as needed -->
+        </shape>
+    </item>
+
+    <!-- Image -->
+    <item android:drawable="@drawable/fan"
+        android:gravity="center"
+        android:bottom="20dp"
+        android:width="70dp"
+        android:height="70dp" />
+
+    <!-- Adjust the size as needed -->
+</layer-list>
