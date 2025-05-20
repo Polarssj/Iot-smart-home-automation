@@ -124,5 +124,5 @@ For any questions or collaboration proposals, feel free to reach out!
 
 ## Contact
 
-> GitHub: [Hithaishi S R](https://github.com/Hithaishisr)  
+> LinkedIn: [Hithaishi S R](www.linkedin.com/in/hithaishisr)  
 > Email: hithaishisr2002@gmail.com
