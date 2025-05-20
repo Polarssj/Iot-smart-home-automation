@@ -124,5 +124,5 @@ For any questions or collaboration proposals, feel free to reach out!
 
 ## Contact
 
-> LinkedIn: [Hithaishi S R](www.linkedin.com/in/hithaishisr)  
+> LinkedIn: [Hithaishi S R](linkedin.com/in/hithaishisr)  
 > Email: hithaishisr2002@gmail.com
